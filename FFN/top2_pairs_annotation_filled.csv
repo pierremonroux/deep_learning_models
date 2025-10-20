@@ -1,0 +1,84 @@
+top1,top2,count,plausible,reason
+4,9,502,0,"No obvious reason"
+1,7,417,"yes","A 7 without a bar can seem like a 1"
+6,5,360,0,"No obvious reason"
+9,4,324,"yes","loop not properly closed"
+8,3,2650,0,"No obvious reason"
+7,3,251,0,"No obvious reason"
+0,6,247,"yes","Unperfect loop"
+7,9,231,"yes","Too curved 7"
+5,9,207,0,"No obvious reason"
+0,2,201,0,"No obvious reason"
+3,5,195,"yes","Unperfect top"
+3,8,182,"yes","Too curved 3, producing closed loops"
+2,3,171,"yes","Stroke too thick"
+2,8,169,,
+3,9,158,"yes","Too curved 3, closing the top loop"
+5,3,146,"yes","Unprecise top"
+1,8,126,,
+9,3,120,,
+0,9,102,,
+8,5,95,"yes","Opened top loop"
+2,7,93,"yes","Low curve of 2"
+8,2,89,,
+6,8,87,,
+5,8,87,,
+5,6,84,"yes","Too curved bottom of 5, closing the loop"
+2,1,79,"yes","weird angles, too thin"
+8,1,76,,
+9,7,68,,
+7,2,67,"yes","7 without bar"
+6,0,65,"yes","Loop not properly closed"
+8,9,61,,
+4,7,49,"yes","weird bar of the 4"
+6,4,45,"yes","Weirg loop of 6"
+1,4,45,,
+3,1,38,,
+7,1,35,"yes","7 without a bar seems like 1"
+1,2,34,,
+9,5,33,"yes","9 loop poorly closed"
+1,6,27,,
+0,7,27,,
+3,7,23,,
+3,2,22,,
+8,6,22,"yes","Top 8 loop poorly closed"
+0,5,21,,
+7,4,20,"yes","Same as 4,7"
+9,8,20,,
+8,4,20,,
+6,1,18,"yes","too small loop"
+4,6,18,,
+4,2,18,,
+2,4,17,,
+2,6,14,"yes","uncomplete 2"
+4,8,12,,
+2,0,11,,
+6,2,8,,
+9,0,8,,
+7,5,8,,
+4,1,8,,
+1,3,6,,
+4,5,5,,
+8,7,4,,
+5,7,4,,
+8,0,3,,
+7,8,3,,
+5,0,3,"yes","too big loop in 5"
+0,4,3,,
+2,5,2,,
+9,1,2,"yes","too small loop in 9"
+5,4,2,,
+5,1,2,,
+2,9,2,,
+7,0,2,,
+0,3,1,,
+0,8,1,,
+1,0,1,,
+9,2,1,,
+7,6,1,,
+1,5,1,,
+3,0,1,,
+3,4,1,,
+5,2,1,,
+6,7,1,,
+0,1,1,,
